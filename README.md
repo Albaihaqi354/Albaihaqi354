@@ -1,9 +1,7 @@
-## Hi there 👋
+### Hi there 👋
+I'm Bian Albaihaqi, a passionate developer and open-source enthusiast.
 
-I'm [Bian Albaihaqi], a passionate developer and open-source enthusiast.
-
-## 📫 Contact
-
+### 📫 Contact
 - [Email](mailto:bianalbaihaqi190@gmail.com)
 - [Instagram](https://www.instagram.com/bian.disini/)
 
